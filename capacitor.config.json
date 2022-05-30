@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cesi-weather-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
